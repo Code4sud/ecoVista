@@ -2,7 +2,7 @@
 
 1. Using the template  
   
-   #### HTML
+   #### HTML 
      * Start with `index.html`, this will be your root page (the main page)  
        Questions about its content? Refer to `template.html`  
      * To make new HTML pages, duplicate `template.html` inside the folder and rename it to the URL path you want.  
